@@ -1,0 +1,30 @@
+{
+  "title": "Spark",
+  "description": "Apache Spark Examples",
+  "difficulty": "Intermediate",
+  "time": "45 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "checkout repository",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "code": "installa.sh",
+      "text": "intro.md",
+      "credits": ""
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "vscode",
+    "uimessage1": "Apache Spark"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
+
