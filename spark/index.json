@@ -8,6 +8,26 @@
       {
         "title": "checkout repository",
         "text": "step1.md"
+      },
+      {
+        "title": "run app",
+        "text": "step2.md"
+      },
+      {
+        "title": "Find Teams in Premier League",
+        "text": "step3.md"
+      },
+      {
+        "title": "Find Matches played by a team",
+        "text": "step4.md"
+      },
+      {
+        "title": "Find a team's total points",
+        "text": "step5.md"
+      },
+      {
+        "title": "Bonus Task - Find biggest win by any team",
+        "text": "step6.md"
       }
     ],
     "intro": {
