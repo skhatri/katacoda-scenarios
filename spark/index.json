@@ -11,7 +11,7 @@
       }
     ],
     "intro": {
-      "code": "installa.sh",
+      "code": "install.sh",
       "text": "intro.md",
       "credits": ""
     },
